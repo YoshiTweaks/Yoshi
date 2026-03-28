@@ -2,14 +2,14 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "YOSHI INTERNAL DELUXE",
+      "name": "YOSHI DELUXE TLZ",
       "status": "ONLINE",
       "lib_name": "Yoshi.so",
       "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYoshi.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "YOSHI FREE MOD",
+      "name": "YOSHI DELUXE CZZ",
       "status": "MAINTENANCE",
       "lib_name": "Yoshi.so",
       "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYoshi.so",
