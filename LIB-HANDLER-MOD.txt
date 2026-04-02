@@ -10,7 +10,7 @@
     },
     {
       "name": "YOSHI DELUXE CZZ",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "YoshiCZZ.so",
       "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYoshiCZZ.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
