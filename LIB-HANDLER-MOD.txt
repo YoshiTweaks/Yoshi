@@ -3,7 +3,7 @@
   "systems": [
     {
       "name": "YOSHI DELUXE TLZ",
-      "status": "OFFLINE",
+      "status": "ONLINE",
       "lib_name": "Yoshi.so",
       "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYoshi.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
