@@ -3,7 +3,7 @@
   "systems": [
     {
       "name": "YOSHI PREMIUM V1",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libYOSHIV1.so",
       "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHIV1.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
@@ -17,7 +17,7 @@
     },
     {
       "name": "YOSHI PREMIUM V3",
-      "status": "ONLINE",
+      "status": "OFFLINE",
       "lib_name": "libYOSHIV3.so",
       "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHIV3.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
