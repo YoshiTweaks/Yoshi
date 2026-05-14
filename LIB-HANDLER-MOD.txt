@@ -6,14 +6,20 @@
       "status": "ONLINE",
       "lib_name": "libYOSHIV1.so",
       "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHIV1.so", 
-      "game_activity":
-"com.tencent.tmgp.cod.CODMainActivity"
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
       "name": "YOSHI PREMIUM V2",
       "status": "ONLINE",
       "lib_name": "libYOSHINEW.so",
       "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHINEW.so", 
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "YOSHI PREMIUM V3",
+      "status": "ONLINE",
+      "lib_name": "libYOSHIV3.so",
+      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHIV3.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
