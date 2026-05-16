@@ -7,6 +7,13 @@
       "lib_name": "libYOSHINEW.so",
       "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHINEW.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "TEST",
+      "status": "ONLINE",
+      "lib_name": "libYOSHIDELUXE.so",
+      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHIDELUXE.so", 
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
 }
