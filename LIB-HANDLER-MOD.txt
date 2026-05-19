@@ -2,17 +2,17 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "YOSHI DELUXE",
+      "name": "YOSHI DELUXE V1",
       "status": "ONLINE",
       "lib_name": "libYOSHIDELUXE.so",
       "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHIDELUXE.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "YOSHI DELUXE",
+      "name": "YOSHI DELUXE V2",
       "status": "ONLINE",
-      "lib_name": "libYOSHIDELUXE.so",
-      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHIDELUXE.so", 
+      "lib_name": "libYOSHIDELUXEV2.so",
+      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHIDELUXEV2.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
