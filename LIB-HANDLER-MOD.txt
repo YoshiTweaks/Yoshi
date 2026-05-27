@@ -3,7 +3,7 @@
   "systems": [
     {
       "name": "YOSHI DELUXE V1",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libYOSHIDELUXE.so",
       "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHIDELUXE.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
