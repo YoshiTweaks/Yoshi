@@ -10,9 +10,9 @@
     },
     {
       "name": "YOSHI DELUXE V2",
-      "status": "MAINTENANCE",
-      "lib_name": "libcidhaxpo.so",
-      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libcidhaxpo.so", 
+      "status": "ONLINE",
+      "lib_name": "libYOSHIDELUXEV2.so",
+      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHIDELUXEV2.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
