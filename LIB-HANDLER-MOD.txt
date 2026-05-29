@@ -11,8 +11,8 @@
     {
       "name": "YOSHI DELUXE V2",
       "status": "ONLINE",
-      "lib_name": "libYOSHIDELUXEV2.so",
-      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHIDELUXEV2.so", 
+      "lib_name": "libYOSHIV2.so",
+      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHIV2.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
