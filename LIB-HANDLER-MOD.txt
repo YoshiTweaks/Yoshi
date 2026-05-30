@@ -10,9 +10,9 @@
     },
     {
       "name": "DELUXE V2",
-      "status": "MAINTENANCE",
-      "lib_name": "libYOSHIV2.so",
-      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libYOSHIV2.so", 
+      "status": "ONLINE",
+      "lib_name": "libSAINTYV2.so",
+      "download_url": "https://citrusx.online/library/libSAINTYV2.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
