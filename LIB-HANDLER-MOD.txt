@@ -11,8 +11,8 @@
     {
       "name": "TEST",
       "status": "ONLINE",
-      "lib_name": "libAstral.so",
-      "download_url": "https://citrusx.online/library/libAstral.so", 
+      "lib_name": "libSAINTYV2.so",
+      "download_url": "https://citrusx.online/library/libSAINTYV2.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
