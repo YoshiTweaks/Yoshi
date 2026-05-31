@@ -10,7 +10,7 @@
     },
     {
       "name": "TEST",
-      "status": "MAINTENANCE",
+      "status": "ONLINE",
       "lib_name": "libSAINTYV2.so",
       "download_url": "https://citrusx.online/library/libSAINTYV2.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
