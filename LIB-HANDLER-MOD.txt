@@ -5,14 +5,14 @@
       "name": "DELUXE V1",
       "status": "ONLINE",
       "lib_name": "libSAINTYV1.so",
-      "download_url": "https://citrusx.online/library/libSAINTYV1.so", 
+      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libSAINTYV1.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
       "name": "TEST",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libAstral.so",
-      "download_url": "https://citrusx.online/library/libAstral.so", 
+      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libSAINTYV1.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
