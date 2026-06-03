@@ -5,7 +5,7 @@
       "name": "DELUXE V1",
       "status": "ONLINE",
       "lib_name": "libSAINTYV1.so",
-      "download_url": "https://yoshigodz.x10.mx/Farlight/libSAINTYV1.so", 
+      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libSAINTYV1.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
