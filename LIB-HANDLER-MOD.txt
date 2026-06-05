@@ -10,9 +10,9 @@
     },
     {
       "name": "TEST",
-      "status": "MAINTENANCE",
-      "lib_name": "libAstral.so",
-      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libSAINTYV1.so", 
+      "status": "ONLINE",
+      "lib_name": "libSAINTYV2.so",
+      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libSAINTYV2.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
