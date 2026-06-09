@@ -2,10 +2,10 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "DELUXE V1",
+      "name": "GOYA",
       "status": "ONLINE",
       "lib_name": "libSAINTYV1.so",
-      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libSAINTYV1.so", 
+      "download_url": "https://gelatinpanel.x10.mx/Farlight/libSAINTYV1.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
