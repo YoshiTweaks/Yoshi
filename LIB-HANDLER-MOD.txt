@@ -9,10 +9,10 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "TEST",
-      "status": "MAINTENANCE",
-      "lib_name": "libSAINTYV2.so",
-      "download_url": "https://yoshiotenpanel.x10.mx/Farlight/libSAINTYV2.so", 
+      "name": "DAIRY MILK",
+      "status": "ONLINE",
+      "lib_name": "libDAIRYMILK.so",
+      "download_url": "https://yoshibuilds.x10.mx/Farlight/libDAIRYMILK.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
