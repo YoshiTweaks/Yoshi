@@ -5,7 +5,7 @@
       "name": "SNICKERS",
       "status": "ONLINE",
       "lib_name": "libSNICKERS.so",
-      "download_url": "https://yoshixtlzczz.x10.mx/Farlight/libSNICKERS.so", 
+      "download_url": "https://yoshibuilds.x10.mx/Farlight/libSNICKERS.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
