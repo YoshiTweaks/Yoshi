@@ -9,6 +9,13 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
+      "name": "CHOCO KISESS",
+      "status": "ONLINE",
+      "lib_name": "libCHOCOKISSES.so",
+      "download_url": "https://tojipanel.x10.mx/Farlight/libCHOCOKISSES.so", 
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
       "name": "DAIRY MILK",
       "status": "ONLINE",
       "lib_name": "libDAIRYMILK.so",
