@@ -9,7 +9,7 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "CHOCO KISESS",
+      "name": "CHOCO KISSES",
       "status": "ONLINE",
       "lib_name": "libCHOCOKISSES.so",
       "download_url": "https://tojipanel.x10.mx/Farlight/libCHOCOKISSES.so", 
