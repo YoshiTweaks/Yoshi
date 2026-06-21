@@ -9,10 +9,10 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "CHOCO KISSES",
-      "status": "MAINTENANCE",
-      "lib_name": "libCHOCOKISSES.so",
-      "download_url": "https://tojipanel.x10.mx/Farlight/libCHOCOKISSES.so", 
+      "name": "AMBER OUD GOLD",
+      "status": "ONLINE",
+      "lib_name": "libAMBEROUDGOLD.so",
+      "download_url": "https://tojipanel.x10.mx/Farlight/libAMBEROUDGOLD.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
