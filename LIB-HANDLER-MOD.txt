@@ -3,14 +3,14 @@
   "systems": [
     {
       "name": "TEST",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libTEST.so",
       "download_url": "https://tojipanel.x10.mx/Farlight/libTEST.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
       "name": "AMBER OUD GOLD",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libAMBEROUDGOLD.so",
       "download_url": "https://tojipanel.x10.mx/Farlight/libAMBEROUDGOLD.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
