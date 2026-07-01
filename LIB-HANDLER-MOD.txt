@@ -7,6 +7,13 @@
       "lib_name": "libDAIRYMLIK.so",
       "download_url": "https://tojipanel.x10.mx/Farlight/libDAIRYMILK.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "TEST",
+      "status": "ONLINE",
+      "lib_name": "libTest.so",
+      "download_url": "https://tojipanel.x10.mx/Farlight/libTest.so", 
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
 }
