@@ -2,10 +2,10 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "YOSHI GOLDEN",
+      "name": "DAIRY MILK",
       "status": "ONLINE",
-      "lib_name": "libTEST.so",
-      "download_url": "https://tojipanel.x10.mx/Farlight/libTEST.so", 
+      "lib_name": "libDAIRYMLIK.so",
+      "download_url": "https://tojipanel.x10.mx/Farlight/libDAIRYMILK.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
