@@ -2,7 +2,7 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "TEST",
+      "name": "YOSHI GOLDEN",
       "status": "ONLINE",
       "lib_name": "libTEST.so",
       "download_url": "https://tojipanel.x10.mx/Farlight/libTEST.so", 
